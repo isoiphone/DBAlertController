@@ -14,8 +14,8 @@ open class DBAlertController: UIAlertController {
     fileprivate lazy var alertWindow: UIWindow = {
         let window = UIWindow(frame: UIScreen.main.bounds)
         window.rootViewController = DBClearViewController()
-        window.backgroundColor = UIColor.clear
-		window.windowLevel = UIWindowLevelAlert
+        window.backgroundColor = .clear
+		window.windowLevel = .alert
         return window
     }()
     

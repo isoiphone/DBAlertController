@@ -4,7 +4,4 @@
    <FileRef
       location = "group:DBAlertController.xcodeproj">
    </FileRef>
-   <FileRef
-      location = "group:/Users/z001m1h/Developer/DBAlertController/DBAlertController-Demo.xcodeproj">
-   </FileRef>
 </Workspace>
