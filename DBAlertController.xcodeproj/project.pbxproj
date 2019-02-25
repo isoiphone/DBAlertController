@@ -60,8 +60,7 @@
 				8810EDC11BF1026500A5B6F6 /* DBAlertController.swift */,
 				8810EDCC1BF1037200A5B6F6 /* Supporting Files */,
 			);
-			name = Source;
-			path = DBAlertController;
+			path = Source;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
